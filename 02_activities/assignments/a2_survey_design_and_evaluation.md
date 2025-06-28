@@ -50,7 +50,8 @@ The purpose of this survey is to understand why there is a high turnover rate wi
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 Sampling strategy: ideally, we would use human resources data to identify departments with high turnover (we should define “high”) and target only those. However, assuming we don’t have access to this data, nor to department managers for possible motives for high-turnover, we will instead rely on secondary research to identify common drivers of high turnover in similar contexts and design our survey accordingly.
-We assume that all the employees have a corporate email address that they use on a daily basis, and through which they can be contacted.  We also assume that the company can and will ensure anonymity to survey respondents.
+We assume that all the employees have a corporate email address that they use on a daily basis, and through which they can be contacted.
+We assume that the company can easily deliver emails to a well defined subset of employees. We also assume that the company can and will ensure anonymity to survey respondents. 
 We also assume that the definition of entry- and lower-level position is consistent across departments. 
 Based on these assumptions ALL entry- and lower-level position employees will be invited to participate via email. The survey will be distributed first thing in the Monday morning (or subsequent day if it is a holiday). Those who don’t answer promptly will be reminded on Wednesday and Friday as needed. This will give us a pretty short timeline to get our sampling. To maximize participation, the subject of the email will be engaging (e.g.,  “Help us help you” or “How can we help you succeed and enjoy your job?”). The body of the email will include a declaration of commitment to anonymity and a short description of what we want to achieve and how that will positively impact the employees. 
 Based on all these assumptions:
